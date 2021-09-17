@@ -27,3 +27,5 @@ node appscrape.js
 8. Save the file in xlsx format.
 
 Code source: https://github.com/facundoolano/google-play-scraper
+
+Search results are populated on 17th September, 2021.
